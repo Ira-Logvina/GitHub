@@ -1,8 +1,0 @@
-ID
-Title
-ER
-Status
-Priority	
-Bug link
-Attachment	
-Comment
