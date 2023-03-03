@@ -1,0 +1,8 @@
+ID
+Title
+ER
+Status
+Priority
+Big link
+Attachment
+Comment
