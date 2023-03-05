@@ -3,6 +3,6 @@ Title
 ER
 Status
 Priority
-Big link
+Bug link
 Attachment
 Comment
